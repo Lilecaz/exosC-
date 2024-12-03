@@ -1,0 +1,14 @@
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/ArticleTypé/bin/Debug/net9.0/ArticleTypé
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/ArticleTypé/bin/Debug/net9.0/ArticleTypé.deps.json
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/ArticleTypé/bin/Debug/net9.0/ArticleTypé.runtimeconfig.json
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/ArticleTypé/bin/Debug/net9.0/ArticleTypé.dll
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/ArticleTypé/bin/Debug/net9.0/ArticleTypé.pdb
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/ArticleTypé/obj/Debug/net9.0/ArticleTypé.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/ArticleTypé/obj/Debug/net9.0/ArticleTypé.AssemblyInfoInputs.cache
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/ArticleTypé/obj/Debug/net9.0/ArticleTypé.AssemblyInfo.cs
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/ArticleTypé/obj/Debug/net9.0/ArticleTypé.csproj.CoreCompileInputs.cache
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/ArticleTypé/obj/Debug/net9.0/ArticleTypé.dll
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/ArticleTypé/obj/Debug/net9.0/refint/ArticleTypé.dll
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/ArticleTypé/obj/Debug/net9.0/ArticleTypé.pdb
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/ArticleTypé/obj/Debug/net9.0/ArticleTypé.genruntimeconfig.cache
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/ArticleTypé/obj/Debug/net9.0/ref/ArticleTypé.dll

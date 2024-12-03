@@ -1,0 +1,14 @@
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/Interfaces/bin/Debug/net9.0/Interfaces
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/Interfaces/bin/Debug/net9.0/Interfaces.deps.json
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/Interfaces/bin/Debug/net9.0/Interfaces.runtimeconfig.json
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/Interfaces/bin/Debug/net9.0/Interfaces.dll
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/Interfaces/bin/Debug/net9.0/Interfaces.pdb
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/Interfaces/obj/Debug/net9.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/Interfaces/obj/Debug/net9.0/Interfaces.AssemblyInfoInputs.cache
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/Interfaces/obj/Debug/net9.0/Interfaces.AssemblyInfo.cs
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/Interfaces/obj/Debug/net9.0/Interfaces.csproj.CoreCompileInputs.cache
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/Interfaces/obj/Debug/net9.0/Interfaces.dll
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/Interfaces/obj/Debug/net9.0/refint/Interfaces.dll
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/Interfaces/obj/Debug/net9.0/Interfaces.pdb
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/Interfaces/obj/Debug/net9.0/Interfaces.genruntimeconfig.cache
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/Interfaces/obj/Debug/net9.0/ref/Interfaces.dll

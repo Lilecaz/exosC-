@@ -1,0 +1,14 @@
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/Delegate/bin/Debug/net9.0/Delegate
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/Delegate/bin/Debug/net9.0/Delegate.deps.json
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/Delegate/bin/Debug/net9.0/Delegate.runtimeconfig.json
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/Delegate/bin/Debug/net9.0/Delegate.dll
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/Delegate/bin/Debug/net9.0/Delegate.pdb
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/Delegate/obj/Debug/net9.0/Delegate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/Delegate/obj/Debug/net9.0/Delegate.AssemblyInfoInputs.cache
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/Delegate/obj/Debug/net9.0/Delegate.AssemblyInfo.cs
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/Delegate/obj/Debug/net9.0/Delegate.csproj.CoreCompileInputs.cache
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/Delegate/obj/Debug/net9.0/Delegate.dll
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/Delegate/obj/Debug/net9.0/refint/Delegate.dll
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/Delegate/obj/Debug/net9.0/Delegate.pdb
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/Delegate/obj/Debug/net9.0/Delegate.genruntimeconfig.cache
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/Delegate/obj/Debug/net9.0/ref/Delegate.dll
