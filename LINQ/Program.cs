@@ -12,14 +12,14 @@ public enum TypeArticle
     Loisir
 }
 
-public struct ArticleTypé
+public struct ArticleType
 {
     public string Nom { get; set; }
     public decimal Prix { get; set; }
     public int Quantite { get; set; }
     public TypeArticle Type { get; set; }
 
-    public ArticleTypé(string nom, decimal prix, int quantite, TypeArticle type)
+    public ArticleType(string nom, decimal prix, int quantite, TypeArticle type)
     {
         Nom = nom;
         Prix = prix;
@@ -35,7 +35,7 @@ public struct ArticleTypé
 
 public static class ExtensionMethods
 {
-    public static void AfficherTous(this IEnumerable<ArticleTypé> articles)
+    public static void AfficherTous(this IEnumerable<ArticleType> articles)
     {
         foreach (var article in articles)
         {
@@ -49,12 +49,12 @@ class Program
     static void Main(string[] args)
     {
         // Initialisation d'une liste d'articles
-        List<ArticleTypé> articles = new List<ArticleTypé>
+        List<ArticleType> articles = new List<ArticleType>
         {
-            new ArticleTypé("Pomme", 2.5m, 50, TypeArticle.Alimentaire),
-            new ArticleTypé("Savon", 3.2m, 30, TypeArticle.Droguerie),
-            new ArticleTypé("T-shirt", 15.0m, 20, TypeArticle.Habillement),
-            new ArticleTypé("Jeu vidéo", 60.0m, 10, TypeArticle.Loisir)
+            new ArticleType("Pomme", 2.5m, 50, TypeArticle.Alimentaire),
+            new ArticleType("Savon", 3.2m, 30, TypeArticle.Droguerie),
+            new ArticleType("T-shirt", 15.0m, 20, TypeArticle.Habillement),
+            new ArticleType("Jeu vidéo", 60.0m, 10, TypeArticle.Loisir)
         };
 
         // Utilisation de la méthode d'extension AfficherTous() pour afficher tous les articles
@@ -84,14 +84,14 @@ class Program
         // Créez une liste contenant à la fois des objets ArticleTypé et d’autres objets quelconques
         List<object> mixedList = new List<object>
         {
-            new ArticleTypé("Pomme", 2.5m, 50, TypeArticle.Alimentaire),
-            new ArticleTypé("Savon", 3.2m, 30, TypeArticle.Droguerie),
+            new ArticleType("Pomme", 2.5m, 50, TypeArticle.Alimentaire),
+            new ArticleType("Savon", 3.2m, 30, TypeArticle.Droguerie),
             "Un objet quelconque",
             12345
         };
 
         // Utilisez l’opérateur OfType<ArticleTypé>() pour extraire uniquement les articles typés de cette collection
-        var articlesFiltres = mixedList.OfType<ArticleTypé>();
+        var articlesFiltres = mixedList.OfType<ArticleType>();
         Console.WriteLine("\nArticles filtrés avec OfType<ArticleTypé> :");
         articlesFiltres.AfficherTous();
 
@@ -111,7 +111,7 @@ class Program
 
         // Désérialisation JSON
         string jsonStringFromFile = File.ReadAllText("articles.json");
-        List<ArticleTypé> articlesDeserialized = JsonSerializer.Deserialize<List<ArticleTypé>>(jsonStringFromFile);
+        List<ArticleType> articlesDeserialized = JsonSerializer.Deserialize<List<ArticleType>>(jsonStringFromFile);
         Console.WriteLine("\nListe des articles chargée depuis le fichier articles.json :");
         articlesDeserialized.AfficherTous();
     }
