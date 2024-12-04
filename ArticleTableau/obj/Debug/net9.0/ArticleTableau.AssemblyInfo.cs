@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArticleTableau")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0f2de47a8a7b00c40f0061e448a18df6ded676b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArticleTableau")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArticleTableau")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

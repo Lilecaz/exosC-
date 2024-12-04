@@ -12,3 +12,4 @@
 /Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/Article/obj/Debug/net9.0/Article.pdb
 /Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/Article/obj/Debug/net9.0/Article.genruntimeconfig.cache
 /Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/Article/obj/Debug/net9.0/ref/Article.dll
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/Article/obj/Debug/net9.0/Article.sourcelink.json

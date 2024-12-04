@@ -1,0 +1,15 @@
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/LINQ/bin/Debug/net9.0/ConsoleApp1
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/LINQ/bin/Debug/net9.0/ConsoleApp1.deps.json
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/LINQ/bin/Debug/net9.0/ConsoleApp1.runtimeconfig.json
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/LINQ/bin/Debug/net9.0/ConsoleApp1.dll
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/LINQ/bin/Debug/net9.0/ConsoleApp1.pdb
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/LINQ/obj/Debug/net9.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/LINQ/obj/Debug/net9.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/LINQ/obj/Debug/net9.0/ConsoleApp1.AssemblyInfo.cs
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/LINQ/obj/Debug/net9.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/LINQ/obj/Debug/net9.0/ConsoleApp1.sourcelink.json
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/LINQ/obj/Debug/net9.0/ConsoleApp1.dll
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/LINQ/obj/Debug/net9.0/refint/ConsoleApp1.dll
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/LINQ/obj/Debug/net9.0/ConsoleApp1.pdb
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/LINQ/obj/Debug/net9.0/ConsoleApp1.genruntimeconfig.cache
+/Users/lilecaz/Documents/ESIEE/C#/Exos-C#Net/LINQ/obj/Debug/net9.0/ref/ConsoleApp1.dll

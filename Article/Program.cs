@@ -51,38 +51,39 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Création de quelques articles
-        Article article1 = new Article("Stylo", 1.50m, 100);
-        Article article2 = new Article("Cahier", 2.75m, 50);
-        Article article3 = new Article("Gomme", 0.99m, 200);
+        // // Création de quelques articles
+        // Article article1 = new Article("Stylo", 1.50m, 100);
+        // Article article2 = new Article("Cahier", 2.75m, 50);
+        // Article article3 = new Article("Gomme", 0.99m, 200);
 
-        // Affichage des articles
-        article1.Afficher();
-        article2.Afficher();
-        article3.Afficher();
+        // // Affichage des articles
+        // article1.Afficher();
+        // article2.Afficher();
+        // article3.Afficher();
 
-        // Modification des quantités
-        article1.Ajouter(20);
-        article2.Retirer(10);
-        article3.Ajouter(50);
+        // // Modification des quantités
+        // article1.Ajouter(20);
+        // article2.Retirer(10);
+        // article3.Ajouter(50);
 
-        // Affichage des articles après modification
-        Console.WriteLine("\nAprès modification des quantités :");
-        article1.Afficher();
-        article2.Afficher();
-        article3.Afficher();
+        // // Affichage des articles après modification
+        // Console.WriteLine("\nAprès modification des quantités :");
+        // article1.Afficher();
+        // article2.Afficher();
+        // article3.Afficher();
 
-        // Saisie des informations pour un nouvel article
-        Console.WriteLine("\nSaisir les informations pour un nouvel article :");
-        Console.Write("Nom : ");
-        string nom = Console.ReadLine();
-        Console.Write("Prix : ");
-        decimal prix = Convert.ToDecimal(Console.ReadLine());
-        Console.Write("Quantité : ");
-        int quantite = Convert.ToInt32(Console.ReadLine());
+        // // Saisie des informations pour un nouvel article
+        // Console.WriteLine("\nSaisir les informations pour un nouvel article :");
+        // Console.Write("Nom : ");
+        // string nom = Console.ReadLine();
+        // Console.Write("Prix : ");
+        // decimal prix = Convert.ToDecimal(Console.ReadLine());
+        // Console.Write("Quantité : ");
+        // int quantite = Convert.ToInt32(Console.ReadLine());
 
-        // Création et affichage du nouvel article
-        Article nouvelArticle = new Article(nom, prix, quantite);
-        nouvelArticle.Afficher();
+        // // Création et affichage du nouvel article
+        // Article nouvelArticle = new Article(nom, prix, quantite);
+        // nouvelArticle.Afficher();
+
     }
 }
